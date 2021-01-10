@@ -37,3 +37,8 @@ Caused by: java.nio.file.FileSystemNotFoundException: Provider "git" not install
 	at scala.meta.internal.metals.MetalsLanguageServer.didFocus(MetalsLanguageServer.scala:919)
 	... 16 more
 
+2021.01.10 14:34:43 INFO  shutting down Metals
+2021.01.10 17:21:24 INFO  Started: Metals version 0.9.8 in workspace 'C:\Users\selcuk\Desktop\apache-spark' for client vscode.
+2021.01.10 17:21:25 INFO  time: initialize in 0.56s
+2021.01.10 17:21:31 WARN  Build server is not auto-connectable.
+2021.01.10 17:21:31 WARN  no build tool detected in workspace 'C:\Users\selcuk\Desktop\apache-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
